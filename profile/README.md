@@ -1,4 +1,4 @@
-## justb web application
+# justb
 ### Inclusive and joyful movement videos for kids and teachers.
 #### Designed by Olympic athletes and occupational therapists
 
