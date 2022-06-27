@@ -20,7 +20,7 @@ justb is hiring [Marcus Harrell](https://www.google.com) to write well designed,
 - Communicate clearly around the technology that is being used and why
 - Research and implement the most relevant technology resources available
 
-**Phase One**
+## Phase One
 
 The goal of phase one is build the core functionalities of justb web application that will allow a limited number of users to access justb at no cost. 
 
