@@ -1,8 +1,11 @@
+<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/102714188/176009427-2542a245-186f-4793-8eaf-f3e9f662d030.png">
+
 # justb
 ### Inclusive and joyful movement videos for kids and teachers.
 #### Designed by Olympic athletes and occupational therapists
+https://movewithjustb.com/
 
- <img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/102714188/176009427-2542a245-186f-4793-8eaf-f3e9f662d030.png">
+ 
 
 ***
 
