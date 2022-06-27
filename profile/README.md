@@ -4,7 +4,7 @@ Inclusive and joyful movement videos for kids and teachers<br>
 Designed by Olympic athletes and occupational therapists
 
 
-***Designs not representative of final product***
+***Designs below are mockups and not representative of final product***
 ![US](https://user-images.githubusercontent.com/102714188/176011673-62ad57e2-a730-4759-aca1-eb6e5879acf2.png)
 
 ![Therapist%20Dashboard%20copy](https://user-images.githubusercontent.com/102714188/176011726-8788083b-742b-46c3-a13b-40d249cbb3df.jpg)
